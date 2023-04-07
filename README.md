@@ -16,13 +16,13 @@ the creation of timing, flow amounts, zones, and type of delivery are all part o
 
 ## Implementation 
 ### MATLAB
-**Member ship function for temperature **
+**Member ship function for temperature**
 ![image](https://user-images.githubusercontent.com/63863517/230662359-89f01342-7cdb-42b2-bfab-f25368a9bef3.png)
 
 **Membership function for soil moisture**
 ![image](https://user-images.githubusercontent.com/63863517/230662445-6faca6c5-4a8f-4103-84c8-2b91a27d904f.png)
 
-**Membership function for irrigation duration **
+**Membership function for irrigation duration**
 ![image](https://user-images.githubusercontent.com/63863517/230662542-5d44a44c-a40e-4d39-9c09-87693721ff50.png)
 
 **Evaluation**
